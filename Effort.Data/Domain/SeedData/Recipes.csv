@@ -1,0 +1,4 @@
+﻿RecipeId,Name,RecipeCategoryId,Description,Rating,PrepTime,CookingTime,Cost
+1,Chicken curry,4,Simple spicy chicken curry,9,15,120,9.99
+2,Fish Masala,1,Tasty fish masala,6,10,15,5.99
+3,Lentil soup,3,Fruity lentil soup,4,20,60,2.50

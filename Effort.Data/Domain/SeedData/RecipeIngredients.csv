@@ -1,0 +1,4 @@
+﻿RecipeIngredientId,Quantity,RecipeId,IngredientId,MeasurementTypeId
+1,4,1,1,20
+2,2,1,26,21
+3,3,2,7,20

@@ -1,0 +1,23 @@
+MeasurementTypeId,Name,Description
+1,tsp,Teaspoon
+2,tbsp,Tablespoon
+3,fl oz,Fluid Ounce
+4,gill,1/2 Cup
+5,cup,Cup
+6,pt,pint
+7,quart,quart
+8,gallon,gallon
+9,ml,milliliter
+10,l,litre
+11,dl,deciliter
+12,lb,pound
+13,oz,ounce
+14,mg,miligram
+15,g,gramme
+16,kg,kilogram
+17,cm,centimeter
+18,m,metre
+19,inch,"in / """""
+20,No.,Number of
+21,Clove,Clove
+22,Tin,Tin
